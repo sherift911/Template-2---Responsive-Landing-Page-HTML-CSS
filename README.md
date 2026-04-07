@@ -10,11 +10,6 @@ https://your-username.github.io/kasper-template/
 
 ---
 
-## 📸 Preview
-![Project Preview](images/preview.png)
-
----
-
 ## 🛠️ Built With
 - HTML5
 - CSS3
@@ -34,3 +29,25 @@ https://your-username.github.io/kasper-template/
 ---
 
 ## 📂 Project Structure
+├── index.html
+├── css/
+│ └── style.css
+├── images/
+│ └── ...
+└── README.md
+
+---
+
+## 🚀 How to Run
+1. Clone the repository
+2. Open `index.html` in your browser
+
+---
+
+## 📢 Notes
+This project was built for learning and practice purposes to improve front-end development skills.
+
+---
+
+## 👨‍💻 Author
+Sherif Khater
