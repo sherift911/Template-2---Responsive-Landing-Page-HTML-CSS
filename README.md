@@ -5,7 +5,7 @@ A modern responsive landing page built using HTML and CSS, inspired by professio
 ---
 
 ## 🌐 Live Demo
-https://your-username.github.io/kasper-template/
+https://sherift911.github.io/Template-2---Responsive-Landing-Page-HTML-CSS/
 ![Template-2---Responsive-Landing-Page-HTML-CSS](images/site.png)
 
 ---
